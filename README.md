@@ -15,3 +15,6 @@
 <a href = "https://www.youtube.com/watch?v=XVv6mJpFOb0">Beautiful Soup FreeCodeCamp</a>
 <a href = "https://beautiful-soup-4.readthedocs.io/en/latest/">Beautiful Soup Documentation</a>
 <p><i>These links are enoough for getting used to Beautiful Soup Python Library</i></p>
+<h2>About Assignment </h2>
+<p>In this Assignment, we had to scrape data from 2023 soc website of WnCC, IIT BOMBAY and get all the information that we find useful in it.</p>
+<p>In the solution to this problem statement, I used the 'requests' library to request for data present in the website of WnCC SoC. After that, Beautiful Soup library was taken in use to find the desired field from the webpage, which we got by inspecting the webpage and going through the code inside it. I extracted four fields namely, Project Name, Link to Project, Name of Mentor(s), and number of mentees about for each project present on the website. Then, I stored the fields extracted, along with its data into a dictionary, and then, using the Pandas library, I transformed the data into a csv file, which could be easily read by the reader.</p>
