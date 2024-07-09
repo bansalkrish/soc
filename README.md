@@ -1,7 +1,7 @@
 <h2>About the Project</h2>
 <p>This is a project which involves  the development of custom web scraping scripts using Python libraries like Beautiful Soup; which includes the skill of navigating through the webpage and extract structured data from it.</p>
 <p>Final goal of this project is scrapping stock prices from NSE website.</p>
-<p>The file named <i>scraping18-06</i> is for mid-term submission on useful information of WnCC SoC data; and the file <i>scraping28-06</i> is for end-term submission on Nifty50 data.</p>
+<p>The file named <i>scraping18-06</i> is for mid-term submission on useful information of WnCC SoC data; and the file <i>scraping28-06</i> is for end-term submission on Nifty50 listed stock data.</p>
 <h2>Libraries Used</h2>
 <p>1.Selenium</p>
 <p>2.Beautiful Soup</p>
