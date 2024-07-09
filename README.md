@@ -14,15 +14,15 @@
 <a href = "https://www.youtube.com/watch?v=vmEHCJofslg"> Pandas</a>
 <p><i>This helps understanding about features, working and setting up of Pandas Python Library</i></p>
 <a href = "https://www.youtube.com/watch?v=qz0aGYrrlhU"> Basics of HTML</a>
-This was to get exposure to basics of HTML language for getting known to the building blocks of pages we are going to scrape is.
+<p><i>This was to get exposure to basics of HTML language for getting known to the building blocks of pages we are going to scrape is.</i></p>
 <a href = "https://www.youtube.com/watch?v=XVv6mJpFOb0">Beautiful Soup FreeCodeCamp</a>
 <a href = "https://beautiful-soup-4.readthedocs.io/en/latest/">Beautiful Soup Documentation</a>
 <p><i>These links are enoough for getting used to Beautiful Soup Python Library</i></p>
 <a href = "https://www.youtube.com/watch?v=NB8OceGZGjA">Selenium Basics</a>
 <a href = "https://www.selenium.dev/documentation/">Selenium Documentation</a>
-<p>These are links to video and website which will provide information which is enough for working on this project.</p>
+<p><i>These are links to video and website which will provide information which is enough for working on this project.</i></p>
 <a href = "https://www.youtube.com/watch?v=j7VZsCCnptM">Detailed Selenium Tutorial</a>
-<p>This is a 3 hour-long video which suffices the information on use of Selenium.</p>
+<p><i>This is a 3 hour-long video which suffices the information on use of Selenium.</i></p>
 
 <h2>About Assignment (Mid Term Submission) </h2>
 <p>In this Assignment, we had to scrape data from 2023 soc website of WnCC, IIT BOMBAY and get all the information that we find useful in it.</p>
